@@ -1,1 +1,3 @@
 # Waves
+
+**Waves** is a full-stack e-commerce application built using React, Node.js, Express, and MongoDB. It features product listing, filtering, pagination, and a shopping cart with PayPal integration. The application utilizes Redux for state management and includes over 15 functional components focused on improving user engagement, checkout processes, and search functionality to enhance conversion rates. Additionally, it implements a secure user authentication and authorization system with role-based access for admins and users, supporting features like email verification, purchase history tracking, and product management for admins.
